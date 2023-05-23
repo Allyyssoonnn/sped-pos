@@ -1,15 +1,20 @@
 {
-    "name": "nfephp-org/sped-pos",
+    "name": "ape/sped-pos",
     "description": "Biblioteca para impressão da DANFCe em impressoras térmicas compatíveis.",
     "type": "library",
     "version": "1.1.0",
     "keywords": ["nfe","nfce","sped","nfephp"],
-    "homepage": "https://github.com/nfephp-org/sped-pos",
+    "homepage": "https://github.com/Allyyssoonnn/sped-pos",
     "license": ["LGPL-3.0-or-later", "GPL-3.0-or-later", "MIT"],
     "authors": [
         {
             "name": "Renan Galeno",
             "email": "renangaleno@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Alyson Henrique",
+            "email": "alysonone123@gmail.com",
             "role": "Developer"
         }
     ],

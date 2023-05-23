@@ -17,7 +17,7 @@ Biblioteca para impressão do DANFCe em impressoras térmicas compatíveis.
 
 ## Modo de uso
 
-1. Instale o pacote: `composer require nfephp-org/sped-pos`
+1. Instale o pacote: `composer require ape/sped-pos`
 
 2. Instale o pacote escpos-php: `composer require mike42/escpos-php`
 
